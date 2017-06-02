@@ -2,8 +2,8 @@
 
 ## Project Overview
 Developed an efficient un-supervised machine learning model to classify customers into different segments based on their annual purchase history.
-Data Set : https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
-Technologies used: Scikit-Learn, Pandas, Matplotlib
+- Data Set : https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+- Technologies used : Scikit-Learn, Pandas, Matplotlib
 
 Things I have learned by completing this project:
 - How to apply preprocessing techniques such as feature scaling and outlier detection.
