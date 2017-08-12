@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image1]: ./images/cluster.png "cluster"
+
 # Creating Customer Segments (Udacity MLND)
 
 ## Project Overview
@@ -11,3 +15,8 @@ Things I have learned by completing this project:
 - How to analyze PCA dimensions and construct a new feature space.
 - How to optimally cluster a set of data to find hidden patterns in a dataset.
 - How to assess information given by cluster data and use it in a meaningful way.
+
+## Clustering the data
+Below is the visualization of customer purchase history data into cluster segments
+
+![cluster][image1]
