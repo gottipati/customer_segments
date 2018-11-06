@@ -2,7 +2,7 @@
 
 [image1]: ./images/cluster.png "cluster"
 
-# Creating Customer Segments (Udacity MLND)
+# Creating Customer Segments
 
 ## Project Overview
 Developed an efficient un-supervised machine learning model to classify customers into different segments based on their annual purchase history.
